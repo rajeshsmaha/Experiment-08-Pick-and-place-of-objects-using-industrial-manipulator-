@@ -1,8 +1,15 @@
 # Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-
+## DATE :22-04-2024
+## NAME :Rajeshwaran.D																			             
+## ROLLNUMBER :212223040165
+## DEPARTMENT :cse
 
 ### Aim :
+
       To pick and place a regular shape using two finger gripper on the conveyor belt 
+      
 ### Equipment Required: 
+
       Instrial manipulator , teach pendant and associated program platform , two finger dh gripper 
       
 ### Theory: 
@@ -37,6 +44,7 @@ Force & position adjustment
 Self-locking
 
                   ![ag-95](https://user-images.githubusercontent.com/36288975/201618444-9b5a4749-9663-464d-814b-170217763a76.png)
+
 ### Figure -01 DH gripper with two finger gripper 
 
 #### Specifications
@@ -82,18 +90,16 @@ and click on the connect icon
 3. click on the 
 
 
+![WhatsApp Image 2024-04-22 at 13 36 22](https://github.com/Dharshini-DS/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/93427345/e0c16593-444e-4ebf-8970-0c48b44d508a)
 
 
+![WhatsApp Image 2024-04-22 at 13 36 21](https://github.com/Dharshini-DS/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/93427345/e2dd9764-b435-4728-bb67-714bc8703b0a)
 
 
+![WhatsApp Image 2024-04-22 at 13 36 21 (1)](https://github.com/Dharshini-DS/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/93427345/d8053fcd-7f4e-4d30-8b04-8417721e7363)
 
 
-
-
-
-
-
-
+![WhatsApp Image 2024-04-22 at 13 36 20](https://github.com/Dharshini-DS/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/93427345/1ecc522b-4473-4b94-ad3e-941eb7a887dc)
 
 
 
@@ -102,14 +108,38 @@ and click on the connect icon
 
 
 
+![WhatsApp Image 2024-04-22 at 13 36 19](https://github.com/Dharshini-DS/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/93427345/66982f33-c826-4f4f-9768-d91a87e47e53)
 
 
+![WhatsApp Image 2024-04-22 at 13 36 19 (2)](https://github.com/Dharshini-DS/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/93427345/0f95974f-e787-4345-87ca-0c10e8f1924f)
+
+
+
+![WhatsApp Image 2024-04-22 at 13 36 19 (1)](https://github.com/Dharshini-DS/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/93427345/d9a41712-036c-4fc1-aad5-92cae63f695f)
+
+
+
+![WhatsApp Image 2024-04-22 at 13 36 18](https://github.com/Dharshini-DS/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/93427345/71d9d037-ac3e-4072-af13-354dc53584c5)
+
+
+![WhatsApp Image 2024-04-22 at 13 36 18 (1)](https://github.com/Dharshini-DS/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/93427345/92e7c585-908e-4c7f-be6d-5ba0ab4ac892)
+
+
+![WhatsApp Image 2024-04-22 at 13 36 17](https://github.com/Dharshini-DS/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/93427345/565f9e28-a06f-4e20-afb2-f38955e06a1d)
+
+
+![WhatsApp Image 2024-04-22 at 13 36 17 (1)](https://github.com/Dharshini-DS/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/93427345/6de7cce5-65a7-4a8c-994f-ffbd1b164e3f)
+
+
+
+![WhatsApp Image 2024-04-22 at 13 36 16](https://github.com/Dharshini-DS/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/93427345/d1201607-1a8e-47d5-b27a-59b401d53f00)
+
+
+
+
+https://drive.google.com/file/d/1aHgABiXx7g7pqcYXFFb204feHKAxh_2-/view?usp=drive_link
 
 
 ### Results: 
 
-
-
-
-
-
+Hence Pick and place of objects using industrial manipulator is executed successfully.
