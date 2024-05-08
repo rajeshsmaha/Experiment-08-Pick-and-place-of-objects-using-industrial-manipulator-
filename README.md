@@ -5,15 +5,12 @@
 ## DEPARTMENT :cse
 
 ### Aim :
-
-      To pick and place a regular shape using two finger gripper on the conveyor belt 
+To pick and place a regular shape using two finger gripper on the conveyor belt 
       
 ### Equipment Required: 
-
-      Instrial manipulator , teach pendant and associated program platform , two finger dh gripper 
+Instrial manipulator , teach pendant and associated program platform , two finger dh gripper 
       
 ### Theory: 
-
 A pick and place robot has several dedicated parts, such as:
 
 Robot Arm tool: A robotic arm, also known as a manipulator, is the extension of the robot by using cylindrical or spherical parts. links, and joints.
